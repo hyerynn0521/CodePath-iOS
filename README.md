@@ -6,7 +6,7 @@ An interactive app where users can play around with the text features and the ba
 
 ### App Walk-though
 
-<div style='position:relative; padding-bottom:calc(202.33% + 44px)'><iframe src='https://gfycat.com/ifr/InferiorNegativeClingfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<img src="https://gifyu.com/image/SSlRH" width=200><br>
 
 
 ### Required User Stories
