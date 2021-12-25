@@ -6,7 +6,7 @@ An interactive app where users can play around with the text features and the ba
 
 ### App Walk-though
 
-!CodePath-iOS(CodePath-iOS/demo.gif)
+![Imgur](https://imgur.com/XpRJvUP.gif)
 
 
 ### Required User Stories
