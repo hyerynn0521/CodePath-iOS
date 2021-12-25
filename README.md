@@ -6,7 +6,7 @@ An interactive app where users can play around with the text features and the ba
 
 ### App Walk-though
 
-<img src="https://gifyu.com/image/SSlRH" width=200><br>
+!CodePath-iOS(CodePath-iOS/demo.gif)
 
 
 ### Required User Stories
